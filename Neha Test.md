@@ -26,3 +26,7 @@ The following article provides an overview of __*VR*__ in the _healthcare domain
 
 > In the coming years, VR will be used more and more to improve the accuracy and effectiveness of current procedures, and enhance the capabilities of the 'human being', both as the care-giver and the patient.
 VR is a popular tool in `medical marketing`. It can be used as an educational tool for patient. Live virtual operations can help familiarize the public with common procedures, help people learn how to do first aid, help facilitate public health campaigns to teach people how to perform emergency care for strokes, heart attacks, and allergic reactions, 
+
+![smaple 1](https://user-images.githubusercontent.com/99109255/152672169-e8ac34e7-ca0f-49a9-82a8-9acdd1da093e.png)
+
+
