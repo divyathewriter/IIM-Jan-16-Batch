@@ -16,7 +16,7 @@ The following article provides an overview of __*VR*__ in the _healthcare domain
   6.	VR for Medical Marketing and Disease awareness 
 - The Future of VR in Healthcare
 
-![virtual reality](/image/D:\Jane Writes\Vaibhav\Week 4\minh-pham-HI6gy-p-WBI-unsplash.jpg "This is a sample image.")
+![virtual reality](/image/minh-pham-HI6gy-p-WBI-unsplash.jpg "This is a sample image.")
 
 
 ## specification table
