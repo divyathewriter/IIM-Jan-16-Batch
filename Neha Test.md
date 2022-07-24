@@ -19,6 +19,8 @@ The following article provides an overview of __*VR*__ in the _healthcare domain
 ![virtual reality](/image/minh-pham-HI6gy-p-WBI-unsplash.jpg "This is a sample image.")
 
 
+
+
 ## specification table
 |specification| Colorfit Ultra| ColorfitBrio|
 |-------------|---------------|-------------|
